@@ -1,5 +1,5 @@
-#CSCI 3308 Software Development Methods and Tools
-##Group Project – Milestone One
+# CSCI 3308 Software Development Methods and Tools
+## Group Project – Milestone One
 
 
 **Team Name:** Tame_Name
