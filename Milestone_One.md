@@ -1,10 +1,10 @@
-CSCI 3308 Software Development Methods and Tools
-Group Project – Milestone One
+#CSCI 3308 Software Development Methods and Tools
+##Group Project – Milestone One
 
 
-Team Name: Tame_Name
+**Team Name:** Tame_Name
 
-Members: David Gerstle, Josh Asmussen, Kamen Shah, Tim Euken, Yiou Gao, Shane Murphy
+**Members:** David Gerstle, Josh Asmussen, Kamen Shah, Tim Euken, Yiou Gao, Shane Murphy
 
 **Description:** We want to create an Android app that will improve personal success when dieting. The user will input their nutritional goals, such as total calories and macro breakdowns of fats, proteins, and carbs. In addition, the user can specify their diets, such as paleo, vegan, vegetarian, or gluten-free, and their specific food preferences and dislikes. 
 The app will in turn give the user a weeks worth of recipes that minimizes ingredients, and a shopping list for the entire week. This will increase diet success by making it easy to shop for and cook recipes, as well as providing a diverse set of recipes each week so the dieter does not have to eat the same thing every day.  
