@@ -26,7 +26,7 @@ We will use asana as a task management tool to organize all current and future t
 
 **Collaboration Tool:** Slack, Cellular devices, GitHub, asana
 
-**Proposed Architecture: **
+**Proposed Architecture:**
 
 We are using Android Studio (IDE), XML/Photoshop(Front End), java(Back end), ASP.net(web service), SQL (Backend database), GCE (Hosting platform)
 
